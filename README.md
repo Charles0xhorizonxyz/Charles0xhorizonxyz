@@ -1,6 +1,6 @@
 # 0xHorizon
 
-Digital infrastructure built for coordination, continuity, and practical use.
+0xHorizon is an infrastructure startup grounded in decentralised finance. We believe finance should offer equal and free access, sovereignty over one's own assets, and power held where it belongs: in everyone's hands. The technology we build is simply the means to get there.
 
 **Website**: https://0xhorizon.xyz
 

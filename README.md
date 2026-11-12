@@ -13,6 +13,7 @@ These are the projects 0xHorizon is contributing to now. Stables is the main one
 | Stables (in testing) | A banking system merchants own: self-custodial payments on the Minima blockchain, now in testing. [stablescouncil.org](https://stablescouncil.org/) | [StablesPublic](https://github.com/Charles0xhorizonxyz/StablesPublic) |
 | Minima Bay (in dev) | Real decentralised finance on Minima, with your assets in your own hands. [minimabay.org](https://minimabay.org/) | [the-bay](https://github.com/Charles0xhorizonxyz/the-bay) and the [minima-bay](https://github.com/minima-bay) organization |
 | Mininotes (live) | A private paper pad for the people close to you. Notes stay sealed from device to device over Maxima. [mininotes.org](https://mininotes.org/) | [mininotes](https://github.com/mininotesorg/mininotes) |
+| Minima Venues (beta) | Every MINIMA order book side by side, with a trade ticket and a paper market maker. Runs on your own computer. Free, open source. | [minima-venues](https://github.com/Charles0xhorizonxyz/minima-venues) |
 | 123go.taxi (live) | Turns an address into a QR code a taxi driver scans to start the route in their own navigation app. Free, open source, nothing collected. [123go.taxi](https://123go.taxi/) | [123gotaxi](https://github.com/Charles0xhorizonxyz/123gotaxi) |
 | Website | Source of 0xhorizon.xyz | [0xhorizon-xyz](https://github.com/Charles0xhorizonxyz/0xhorizon-xyz) |
 
